@@ -22,9 +22,9 @@ class script(object):
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
-<b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: ᴀᴍ_ᴛᴇᴄʜ</b>
+<b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: cw_backup</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43 [ 𝙱𝙴𝚃𝙰 ]</b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg>ᎯℕUℛᎯᎶ</a></b>"""
+<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/cw_backup</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - ᎯℕUℛᎯᎶ is a not open source project. 
 - Owner - https://t.me/Sawan_singh_24
